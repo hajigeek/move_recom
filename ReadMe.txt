@@ -5,4 +5,4 @@
 
 2) Wait for a few seconds
 
-3) Either click on the IP or copy and paste the ip (http://127.0.0.1:5000/) in your browser's address bar and press enter
+and run it on http://127.0.0.1:81/
